@@ -1,0 +1,58 @@
+body, #keyboard
+{
+    text-align: center;
+    margin: auto;
+}
+
+#style
+{
+    border-collapse: collapse;
+    background: rgb(0, 0, 0);
+    border-radius: 25px;
+    border: solid 20px rgba(104, 103, 103, 0);
+    margin-left: 620px;
+    margin-right: 620px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#title
+{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.display
+{
+    text-align: right;
+}
+
+#operazioni
+{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 401px;
+    height: 90px;
+}
+
+.num, .op
+{
+    width: 100px;
+    height: 100px;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightgrey;
+}
+
+.op
+{
+    background-color: lightblue;
+}
+
+.equal
+{
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 410px;
+    background-color: orange;
+}
